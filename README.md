@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tech_makers1" target="blank"><img src="https://img.shields.io/twitter/follow/tech_makers1?logo=twitter&style=for-the-badge" alt="tech_makers1" /></a> </p>
 
-<p align="left"> <img src="https://techmakers.tech/wp-content/themes/TechMakers-WP/assets/img/hero-img.png" align="right" alt="Techmakers" width="450" /> </p>
+<p align="left"> <a href="https://twitter.com/eng_mostafa_11" target="blank"><img src="https://img.shields.io/twitter/follow/eng_mostafa_11?logo=twitter&style=for-the-badge" alt="eng_mostafa_11" /></a> </p>
 
 - 🔭 I’m currently working at [PlatRain](https://www.platrain.online)
 
@@ -40,4 +40,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafaeldowaik" alt="mostafaeldowaik" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/eng_mostafa_11" target="blank"><img src="https://img.shields.io/twitter/follow/eng_mostafa_11?logo=twitter&style=for-the-badge" alt="eng_mostafa_11" /></a> </p>
+
