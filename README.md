@@ -36,9 +36,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaeldowaik&" alt="mostafaeldowaik" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaeldowaik&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaeldowaik" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techmakers96&show_icons=true&locale=en" alt="techmakers96" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafaeldowaik" alt="mostafaeldowaik" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techmakers96&" alt="techmakers96" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techmakers96" alt="techmakers96" /></a> </p>
+<p align="left"> <a href="https://twitter.com/eng_mostafa_11" target="blank"><img src="https://img.shields.io/twitter/follow/eng_mostafa_11?logo=twitter&style=for-the-badge" alt="eng_mostafa_11" /></a> </p>
