@@ -7,19 +7,15 @@
 
 <p align="left"> <img src="https://techmakers.tech/wp-content/themes/TechMakers-WP/assets/img/hero-img.png" align="right" alt="Techmakers" width="450" /> </p>
 
-- 🔭 I’m currently working at [Team for Techmakers](https://techmakers.tech/)
+- 🔭 I’m currently working at [PlatRain](https://www.platrain.online)
 
 - 👯 I’m looking to collaborate on **Design, programming and marketing projects**
 
-- 🤝 I’m looking for help with **helps you as a businessman to focus on your company’s profits and take over the functions of your business.**
+- 👨‍💻 All of my projects are available at [google play](https://play.google.com/store/apps/developer?id=%D9%85%D8%B5%D8%B7%D9%81%D9%8A+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2+%D9%85%D8%B5%D8%B7%D9%81%D9%8A+%D8%A7%D9%84%D8%AF%D9%88%D9%8A%D9%83)
 
-- 👨‍💻 All of my projects are available at [https://techmakers.tech/](https://techmakers.tech/)
+- 💬 Ask me about **mobile UI/UX design and development**
 
-- 💬 Ask me about **Website design and development**
-
-- 📫 How to reach me **hello@techmakers.tech**
-
-- 📄 Know about my experiences [https://techmakers.tech/](https://techmakers.tech/)
+- 📫 How to reach me **mostafaeldowaik@gmaol.com**
 
 - ⚡ Fun fact **teamwork ✌️**
 
