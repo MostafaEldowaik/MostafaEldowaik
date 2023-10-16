@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **mobile UI/UX design and development**
 
-- 📫 How to reach me **mostafaeldowaik@gmaol.com**
+- 📫 How to reach me **mostafaeldowaik@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
