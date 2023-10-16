@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Mostafa Eldowaik </h1>
-<h3 align="center">I’m interested in Mobile Development [flutter] , UI&UX designer && graphic designer</h3>
+<h3 align="center">I’m interested in Networking, Mobile Development [flutter] & UI&UX designer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaeldowaik&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaeldowaik" /> </p>
