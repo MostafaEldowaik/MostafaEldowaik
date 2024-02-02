@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/eng_mostafa_11" target="blank"><img src="https://img.shields.io/twitter/follow/eng_mostafa_11?logo=twitter&style=for-the-badge" alt="eng_mostafa_11" /></a> </p>
 
-#<p align="left"> <img src="" align="right" alt="Techmakers" width="1000" /> </p>
 
 - 🔭 I’m currently working at [PlatRain](https://www.platrain.online)
 
